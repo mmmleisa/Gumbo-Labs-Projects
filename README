@@ -1,0 +1,9 @@
+The Bike Magnet Project
+in progress
+http://www.gumbolabs.org
+
+Initial Arduino files for programming Arduino Duemilanove boards
+to read the magnet-based music box cylinder.  Assumes on 'beat' position
+and 4 notes.  These can be cascaded for greater frequency range.
+
+Much more documentation probably needed here...
